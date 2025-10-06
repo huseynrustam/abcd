@@ -1,0 +1,1491 @@
+{
+  "timestamp": "2025-10-06T05:22:42.936Z",
+  "file": "data/Data_Science_MSc_full_time 2.json",
+  "previousSha": "3d00b238b6c7574d9a7cb033c2b7d8caa630cca2",
+  "newSha": "fdd0de715f8a61128dc98e76ce8e8f526f4986fa",
+  "delta": {
+    "0": [
+      {
+        "Column8": "Semesthhhhhhhhhhhhhhhhhhhhhhers",
+        "Column30": "Prerequisite"
+      }
+    ],
+    "1": [
+      {
+        "Column2": "Code",
+        "Column3": "Course name",
+        "Column4": "Responsible",
+        "Column5": "Institue",
+        "Column6": "weekly hours",
+        "Column7": "credits",
+        "Column8": "1.",
+        "Column13": "2.",
+        "Column18": "3.",
+        "Column23": "4."
+      }
+    ],
+    "2": [
+      {
+        "Column8": "lec",
+        "Column9": "sem",
+        "Column10": "lab",
+        "Column11": "req",
+        "Column12": "cr",
+        "Column13": "lec",
+        "Column14": "sem",
+        "Column15": "lab",
+        "Column16": "req",
+        "Column17": "cr",
+        "Column18": "lec",
+        "Column19": "sem",
+        "Column20": "lab",
+        "Column21": "req",
+        "Column22": "cr",
+        "Column23": "lec",
+        "Column24": "sem",
+        "Column25": "lab",
+        "Column26": "req",
+        "Column27": "cr",
+        "Column30": "Code"
+      }
+    ],
+    "3": [
+      {
+        "Column3": "Theoretical basic knowledge of Data Science (15-25):",
+        "Column6": 15,
+        "Column7": 19,
+        "Column8": 0,
+        "Column9": 0,
+        "Column10": 0,
+        "Column12": 0,
+        "Column13": 5,
+        "Column14": 4,
+        "Column15": 2,
+        "Column17": 14,
+        "Column18": 1,
+        "Column19": 1,
+        "Column20": 2,
+        "Column22": 5,
+        "Column23": 0,
+        "Column24": 0,
+        "Column25": 0,
+        "Column27": 0
+      }
+    ],
+    "4": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "1.",
+        "Column3": "Introduction to machine learning",
+        "Column4": "Dr. Adrienn Dineva",
+        "Column5": "SZFI",
+        "Column6": 4,
+        "Column7": 5,
+        "Column13": 1,
+        "Column14": 1,
+        "Column15": 2,
+        "Column16": "ex",
+        "Column17": 5,
+        "Column30": "Programming paradigms and data structures"
+      }
+    ],
+    "5": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "2.",
+        "Column3": "Mathematical methods in data science",
+        "Column4": "Dr. Gábor Csiszár",
+        "Column5": "AMI",
+        "Column6": 4,
+        "Column7": 5,
+        "Column13": 2,
+        "Column14": 2,
+        "Column15": 0,
+        "Column16": "ex",
+        "Column17": 5
+      }
+    ],
+    "6": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "3.",
+        "Column3": "Probability Theory and Mathematical Statistics ",
+        "Column4": "Dr. Péter Kárász",
+        "Column5": "AMI",
+        "Column6": 3,
+        "Column7": 4,
+        "Column13": 2,
+        "Column14": 1,
+        "Column15": 0,
+        "Column16": "ex",
+        "Column17": 4
+      }
+    ],
+    "7": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "4.",
+        "Column3": "Deep learning",
+        "Column4": "Dr. Adrienn Dineva",
+        "Column5": "SZFI",
+        "Column6": 4,
+        "Column7": 5,
+        "Column18": 1,
+        "Column19": 1,
+        "Column20": 2,
+        "Column21": "ex",
+        "Column22": 5,
+        "Column30": "Basics of machine learning"
+      }
+    ],
+    "8": [
+      {
+        "Column3": "Practical basic knowledge of Data Science (15-25):",
+        "Column6": 21,
+        "Column7": 24,
+        "Column8": 9,
+        "Column9": 2,
+        "Column10": 6,
+        "Column12": 19,
+        "Column13": 2,
+        "Column14": 0,
+        "Column15": 2,
+        "Column17": 5,
+        "Column18": 0,
+        "Column19": 0,
+        "Column20": 0,
+        "Column22": 0,
+        "Column23": 0,
+        "Column24": 0,
+        "Column25": 0,
+        "Column27": 0
+      }
+    ],
+    "9": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "5.",
+        "Column3": "Programming paradigms and data structures*",
+        "Column4": "Prof. Dr. Sándor Szénási",
+        "Column5": "SZFI",
+        "Column6": 5,
+        "Column7": 5,
+        "Column8": 3,
+        "Column9": 0,
+        "Column10": 2,
+        "Column11": "ex",
+        "Column12": 5
+      }
+    ],
+    "10": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "6.",
+        "Column3": "Network technologies",
+        "Column4": "Dr. Eszter Balázsné Kail",
+        "Column5": "KRI",
+        "Column6": 4,
+        "Column7": 4,
+        "Column8": 2,
+        "Column9": 0,
+        "Column10": 2,
+        "Column11": "ex",
+        "Column12": 4
+      }
+    ],
+    "11": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "7.",
+        "Column3": "Project management and business development ",
+        "Column4": "Dr. Anikó Almási",
+        "Column5": "BMI",
+        "Column6": 4,
+        "Column7": 5,
+        "Column8": 2,
+        "Column9": 2,
+        "Column10": 0,
+        "Column11": "m",
+        "Column12": 5
+      }
+    ],
+    "12": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "8.",
+        "Column3": "Introduction to cyber security - security awareness",
+        "Column4": "Dr. Valéria Póser",
+        "Column5": "BMI",
+        "Column6": 4,
+        "Column7": 5,
+        "Column8": 2,
+        "Column9": 0,
+        "Column10": 2,
+        "Column11": "ex",
+        "Column12": 5
+      }
+    ],
+    "13": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "9.",
+        "Column3": "Data visualization and business intelligence",
+        "Column4": "Dr. Rita Fleiner",
+        "Column5": "KRI",
+        "Column6": 4,
+        "Column7": 5,
+        "Column13": 2,
+        "Column14": 0,
+        "Column15": 2,
+        "Column16": "m",
+        "Column17": 5,
+        "Column30": "Databases and Big Data technologies "
+      }
+    ],
+    "14": [
+      {
+        "Column3": "Special knowledge of Data Science (40-60):",
+        "Column6": 37,
+        "Column7": 45,
+        "Column8": 4,
+        "Column9": 0,
+        "Column10": 5,
+        "Column12": 10,
+        "Column13": 4,
+        "Column14": 0,
+        "Column15": 4,
+        "Column17": 10,
+        "Column18": 5,
+        "Column19": 1,
+        "Column20": 6,
+        "Column22": 15,
+        "Column23": 4,
+        "Column24": 0,
+        "Column25": 4,
+        "Column27": 10
+      }
+    ],
+    "15": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "10.",
+        "Column3": "Databases and Big Data technologies ",
+        "Column4": "Dr. Rita Fleiner",
+        "Column5": "KRI",
+        "Column6": 4,
+        "Column7": 5,
+        "Column8": 2,
+        "Column9": 0,
+        "Column10": 2,
+        "Column11": "m",
+        "Column12": 5
+      }
+    ],
+    "16": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "11.",
+        "Column3": "Modern Operational systems",
+        "Column4": "Dr. habil. Róbert Lovas",
+        "Column5": "KRI",
+        "Column6": 5,
+        "Column7": 5,
+        "Column8": 2,
+        "Column9": 0,
+        "Column10": 3,
+        "Column11": "ex",
+        "Column12": 5
+      }
+    ],
+    "17": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "12.",
+        "Column3": "Data preparation and transformation",
+        "Column4": "Dr. Eszter Balázsné Kail",
+        "Column5": "KRI",
+        "Column6": 4,
+        "Column7": 5,
+        "Column13": 2,
+        "Column14": 0,
+        "Column15": 2,
+        "Column16": "m",
+        "Column17": 5,
+        "Column30": "Databases and Big Data technologies "
+      }
+    ],
+    "18": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "13.",
+        "Column3": "Recent areas of artificial intelligence",
+        "Column4": "Dr. Gábor Csiszár",
+        "Column5": "BMI",
+        "Column6": 4,
+        "Column7": 5,
+        "Column18": 2,
+        "Column19": 0,
+        "Column20": 2,
+        "Column21": "ex",
+        "Column22": 5,
+        "Column30": "Basics of machine learning"
+      }
+    ],
+    "19": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "14.",
+        "Column3": "MLSecOps",
+        "Column4": "Dr. Rita Fleiner",
+        "Column5": "KRI",
+        "Column6": 4,
+        "Column7": 5,
+        "Column18": 1,
+        "Column19": 1,
+        "Column20": 2,
+        "Column21": "m",
+        "Column22": 5,
+        "Column30": "Modern Operational systems"
+      }
+    ],
+    "20": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "15.",
+        "Column3": "Mandatory elective course I.",
+        "Column6": 4,
+        "Column7": 5,
+        "Column13": 2,
+        "Column14": 0,
+        "Column15": 2,
+        "Column16": "m",
+        "Column17": 5
+      }
+    ],
+    "21": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "16.",
+        "Column3": "Mandatory elective course II.",
+        "Column6": 4,
+        "Column7": 5,
+        "Column18": 2,
+        "Column19": 0,
+        "Column20": 2,
+        "Column21": "ex",
+        "Column22": 5
+      }
+    ],
+    "22": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "17.",
+        "Column3": "Mandatory elective course III.",
+        "Column6": 4,
+        "Column7": 4,
+        "Column23": 2,
+        "Column24": 0,
+        "Column25": 2,
+        "Column26": "m",
+        "Column27": 4
+      }
+    ],
+    "23": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "18.",
+        "Column3": "Optional elective course",
+        "Column6": 4,
+        "Column7": 6,
+        "Column23": 2,
+        "Column24": 0,
+        "Column25": 2,
+        "Column26": "m",
+        "Column27": 6
+      }
+    ],
+    "24": [
+      {
+        "Column3": "Thesis work",
+        "Column7": 30,
+        "Column8": 0,
+        "Column9": 0,
+        "Column10": 0,
+        "Column12": 0,
+        "Column13": 0,
+        "Column14": 0,
+        "Column15": 0,
+        "Column17": 0,
+        "Column18": 0,
+        "Column19": 0,
+        "Column20": 0,
+        "Column22": 10,
+        "Column23": 0,
+        "Column24": 0,
+        "Column25": 0,
+        "Column27": 20
+      }
+    ],
+    "25": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "19.",
+        "Column3": "Thesis work I.",
+        "Column7": 10,
+        "Column21": "m",
+        "Column22": 10
+      }
+    ],
+    "26": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "20.",
+        "Column3": "Thesis work II.",
+        "Column7": 20,
+        "Column26": "m",
+        "Column27": 20,
+        "Column30": "Thesis work I."
+      }
+    ],
+    "27": [
+      {
+        "Column3": "Criteria subject",
+        "Column6": 1,
+        "Column7": 0,
+        "Column8": 0,
+        "Column9": 1,
+        "Column10": 0,
+        "Column12": 0,
+        "Column13": 0,
+        "Column14": 0,
+        "Column15": 0,
+        "Column17": 0,
+        "Column18": 0,
+        "Column19": 0,
+        "Column20": 0,
+        "Column22": 0,
+        "Column23": 0,
+        "Column24": 0,
+        "Column25": 0,
+        "Column27": 0
+      }
+    ],
+    "28": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "21.",
+        "Column3": "Mentoring",
+        "Column4": "Dr. Borbála Berki",
+        "Column5": "BMI",
+        "Column6": 1,
+        "Column7": 0,
+        "Column8": 0,
+        "Column9": 1,
+        "Column10": 0,
+        "Column11": "s",
+        "Column12": 0
+      }
+    ],
+    "29": [
+      {
+        "Column3": "Physical education",
+        "Column6": 2,
+        "Column7": 2,
+        "Column8": 0,
+        "Column9": 1,
+        "Column10": 0,
+        "Column12": 1,
+        "Column13": 0,
+        "Column14": 1,
+        "Column15": 0,
+        "Column17": 1
+      }
+    ],
+    "30": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "22.",
+        "Column3": "Physical education I.",
+        "Column4": "Ákos Hiervarter ",
+        "Column5": "TSI",
+        "Column6": 1,
+        "Column7": 1,
+        "Column8": 0,
+        "Column9": 1,
+        "Column10": 0,
+        "Column11": "m",
+        "Column12": 1
+      }
+    ],
+    "31": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "23.",
+        "Column3": "Physical education II.",
+        "Column4": "Ákos Hiervarter",
+        "Column5": "TSI",
+        "Column6": 1,
+        "Column7": 1,
+        "Column13": 0,
+        "Column14": 1,
+        "Column15": 0,
+        "Column16": "m",
+        "Column17": 1
+      }
+    ],
+    "32": [
+      {
+        "Column3": "Elective courses:"
+      }
+    ],
+    "33": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "24.",
+        "Column3": "Cloud based IoT and Big Data Platforms",
+        "Column4": "Dr. habil. Róbert Lovas",
+        "Column5": "KRI",
+        "Column6": 4,
+        "Column7": 4,
+        "Column23": 2,
+        "Column24": 0,
+        "Column25": 2,
+        "Column26": "m",
+        "Column27": 4
+      }
+    ],
+    "34": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "25.",
+        "Column3": "Basics of Evidence Based-medicine",
+        "Column4": "Dr. habil. Tamás Ferenci",
+        "Column5": "BMI",
+        "Column6": 3,
+        "Column7": 4,
+        "Column23": 1,
+        "Column24": 0,
+        "Column25": 2,
+        "Column26": "ex",
+        "Column27": 4
+      }
+    ],
+    "35": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "26.",
+        "Column3": "Application of biostatistical methods",
+        "Column4": "Dr. habil. Tamás Ferenci",
+        "Column5": "BMI",
+        "Column6": 4,
+        "Column7": 4,
+        "Column23": 2,
+        "Column24": 0,
+        "Column25": 2,
+        "Column26": "ex",
+        "Column27": 4
+      }
+    ],
+    "36": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "27.",
+        "Column3": "Research Methodology",
+        "Column4": "Dr. György Eigner",
+        "Column5": "BMI",
+        "Column6": 2,
+        "Column7": 4,
+        "Column23": 1,
+        "Column24": 0,
+        "Column25": 1,
+        "Column26": "m",
+        "Column27": 4
+      }
+    ],
+    "37": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "28.",
+        "Column3": "AI-based solutions for cyber defence",
+        "Column4": "Dr. Eszter Balázsné Kail",
+        "Column5": "KRI",
+        "Column6": 4,
+        "Column7": 5,
+        "Column23": 2,
+        "Column24": 0,
+        "Column25": 2,
+        "Column26": "ex",
+        "Column27": 5
+      }
+    ],
+    "38": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "29.",
+        "Column3": "Multivariate statistical methods",
+        "Column4": "Dr. habil. Tamás Ferenci",
+        "Column5": "BMI",
+        "Column6": 4,
+        "Column7": 4,
+        "Column23": 2,
+        "Column24": 0,
+        "Column25": 2,
+        "Column26": "ex",
+        "Column27": 4
+      }
+    ],
+    "39": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "30.",
+        "Column3": "Stochastic processes and their applications",
+        "Column4": "Dr. Péter Kárász",
+        "Column5": "AMI",
+        "Column6": 4,
+        "Column7": 5,
+        "Column23": 2,
+        "Column24": 2,
+        "Column25": 0,
+        "Column26": "ex",
+        "Column27": 5
+      }
+    ],
+    "41": [
+      {
+        "Column3": "Number of requirements:",
+        "Column11": 8,
+        "Column16": 7,
+        "Column21": 5,
+        "Column26": 3
+      }
+    ],
+    "42": [
+      {
+        "Column3": "Exam (ex)",
+        "Column11": 4,
+        "Column16": 3,
+        "Column21": 3,
+        "Column26": 0
+      }
+    ],
+    "43": [
+      {
+        "Column3": "Mid-term mark (m)",
+        "Column11": 3,
+        "Column16": 4,
+        "Column21": 2,
+        "Column26": 3
+      }
+    ],
+    "44": [
+      {
+        "Column3": "Signature (s)",
+        "Column11": 1,
+        "Column16": 0,
+        "Column21": 0,
+        "Column26": 0
+      }
+    ],
+    "46": [
+      {
+        "Column3": "Summary:",
+        "Column6": 76,
+        "Column7": 120,
+        "Column8": 13,
+        "Column9": 4,
+        "Column10": 11,
+        "Column12": 30,
+        "Column13": 11,
+        "Column14": 5,
+        "Column15": 8,
+        "Column17": 30,
+        "Column18": 6,
+        "Column19": 2,
+        "Column20": 8,
+        "Column22": 30,
+        "Column23": 4,
+        "Column24": 0,
+        "Column25": 4,
+        "Column27": 30
+      }
+    ],
+    "47": [
+      {
+        "Column3": "Lecture:",
+        "Column6": 34
+      }
+    ],
+    "48": [
+      {
+        "Column3": "Seminar:",
+        "Column6": 11
+      }
+    ],
+    "49": [
+      {
+        "Column3": "Laboratory practice:",
+        "Column6": 31
+      }
+    ],
+    "_t": "a",
+    "_0": [
+      {
+        "Column8": "Semesters",
+        "Column30": "Prerequisite"
+      },
+      0,
+      0
+    ],
+    "_1": [
+      {
+        "Column2": "Code",
+        "Column3": "Course name",
+        "Column4": "Responsible",
+        "Column5": "Institue",
+        "Column6": "weekly hours",
+        "Column7": "credits",
+        "Column8": "1.",
+        "Column13": "2.",
+        "Column18": "3.",
+        "Column23": "4."
+      },
+      0,
+      0
+    ],
+    "_2": [
+      {
+        "Column8": "lec",
+        "Column9": "sem",
+        "Column10": "lab",
+        "Column11": "req",
+        "Column12": "cr",
+        "Column13": "lec",
+        "Column14": "sem",
+        "Column15": "lab",
+        "Column16": "req",
+        "Column17": "cr",
+        "Column18": "lec",
+        "Column19": "sem",
+        "Column20": "lab",
+        "Column21": "req",
+        "Column22": "cr",
+        "Column23": "lec",
+        "Column24": "sem",
+        "Column25": "lab",
+        "Column26": "req",
+        "Column27": "cr",
+        "Column30": "Code"
+      },
+      0,
+      0
+    ],
+    "_3": [
+      {
+        "Column3": "Theoretical basic knowledge of Data Science (15-25):",
+        "Column6": 15,
+        "Column7": 19,
+        "Column8": 0,
+        "Column9": 0,
+        "Column10": 0,
+        "Column12": 0,
+        "Column13": 5,
+        "Column14": 4,
+        "Column15": 2,
+        "Column17": 14,
+        "Column18": 1,
+        "Column19": 1,
+        "Column20": 2,
+        "Column22": 5,
+        "Column23": 0,
+        "Column24": 0,
+        "Column25": 0,
+        "Column27": 0
+      },
+      0,
+      0
+    ],
+    "_4": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "1.",
+        "Column3": "Introduction to machine learning",
+        "Column4": "Dr. Adrienn Dineva",
+        "Column5": "SZFI",
+        "Column6": 4,
+        "Column7": 5,
+        "Column13": 1,
+        "Column14": 1,
+        "Column15": 2,
+        "Column16": "ex",
+        "Column17": 5,
+        "Column30": "Programming paradigms and data structures"
+      },
+      0,
+      0
+    ],
+    "_5": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "2.",
+        "Column3": "Mathematical methods in data science",
+        "Column4": "Dr. Gábor Csiszár",
+        "Column5": "AMI",
+        "Column6": 4,
+        "Column7": 5,
+        "Column13": 2,
+        "Column14": 2,
+        "Column15": 0,
+        "Column16": "ex",
+        "Column17": 5
+      },
+      0,
+      0
+    ],
+    "_6": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "3.",
+        "Column3": "Probability Theory and Mathematical Statistics ",
+        "Column4": "Dr. Péter Kárász",
+        "Column5": "AMI",
+        "Column6": 3,
+        "Column7": 4,
+        "Column13": 2,
+        "Column14": 1,
+        "Column15": 0,
+        "Column16": "ex",
+        "Column17": 4
+      },
+      0,
+      0
+    ],
+    "_7": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "4.",
+        "Column3": "Deep learning",
+        "Column4": "Dr. Adrienn Dineva",
+        "Column5": "SZFI",
+        "Column6": 4,
+        "Column7": 5,
+        "Column18": 1,
+        "Column19": 1,
+        "Column20": 2,
+        "Column21": "ex",
+        "Column22": 5,
+        "Column30": "Basics of machine learning"
+      },
+      0,
+      0
+    ],
+    "_8": [
+      {
+        "Column3": "Practical basic knowledge of Data Science (15-25):",
+        "Column6": 21,
+        "Column7": 24,
+        "Column8": 9,
+        "Column9": 2,
+        "Column10": 6,
+        "Column12": 19,
+        "Column13": 2,
+        "Column14": 0,
+        "Column15": 2,
+        "Column17": 5,
+        "Column18": 0,
+        "Column19": 0,
+        "Column20": 0,
+        "Column22": 0,
+        "Column23": 0,
+        "Column24": 0,
+        "Column25": 0,
+        "Column27": 0
+      },
+      0,
+      0
+    ],
+    "_9": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "5.",
+        "Column3": "Programming paradigms and data structures*",
+        "Column4": "Prof. Dr. Sándor Szénási",
+        "Column5": "SZFI",
+        "Column6": 5,
+        "Column7": 5,
+        "Column8": 3,
+        "Column9": 0,
+        "Column10": 2,
+        "Column11": "ex",
+        "Column12": 5
+      },
+      0,
+      0
+    ],
+    "_10": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "6.",
+        "Column3": "Network technologies",
+        "Column4": "Dr. Eszter Balázsné Kail",
+        "Column5": "KRI",
+        "Column6": 4,
+        "Column7": 4,
+        "Column8": 2,
+        "Column9": 0,
+        "Column10": 2,
+        "Column11": "ex",
+        "Column12": 4
+      },
+      0,
+      0
+    ],
+    "_11": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "7.",
+        "Column3": "Project management and business development ",
+        "Column4": "Dr. Anikó Almási",
+        "Column5": "BMI",
+        "Column6": 4,
+        "Column7": 5,
+        "Column8": 2,
+        "Column9": 2,
+        "Column10": 0,
+        "Column11": "m",
+        "Column12": 5
+      },
+      0,
+      0
+    ],
+    "_12": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "8.",
+        "Column3": "Introduction to cyber security - security awareness",
+        "Column4": "Dr. Valéria Póser",
+        "Column5": "BMI",
+        "Column6": 4,
+        "Column7": 5,
+        "Column8": 2,
+        "Column9": 0,
+        "Column10": 2,
+        "Column11": "ex",
+        "Column12": 5
+      },
+      0,
+      0
+    ],
+    "_13": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "9.",
+        "Column3": "Data visualization and business intelligence",
+        "Column4": "Dr. Rita Fleiner",
+        "Column5": "KRI",
+        "Column6": 4,
+        "Column7": 5,
+        "Column13": 2,
+        "Column14": 0,
+        "Column15": 2,
+        "Column16": "m",
+        "Column17": 5,
+        "Column30": "Databases and Big Data technologies "
+      },
+      0,
+      0
+    ],
+    "_14": [
+      {
+        "Column3": "Special knowledge of Data Science (40-60):",
+        "Column6": 37,
+        "Column7": 45,
+        "Column8": 4,
+        "Column9": 0,
+        "Column10": 5,
+        "Column12": 10,
+        "Column13": 4,
+        "Column14": 0,
+        "Column15": 4,
+        "Column17": 10,
+        "Column18": 5,
+        "Column19": 1,
+        "Column20": 6,
+        "Column22": 15,
+        "Column23": 4,
+        "Column24": 0,
+        "Column25": 4,
+        "Column27": 10
+      },
+      0,
+      0
+    ],
+    "_15": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "10.",
+        "Column3": "Databases and Big Data technologies ",
+        "Column4": "Dr. Rita Fleiner",
+        "Column5": "KRI",
+        "Column6": 4,
+        "Column7": 5,
+        "Column8": 2,
+        "Column9": 0,
+        "Column10": 2,
+        "Column11": "m",
+        "Column12": 5
+      },
+      0,
+      0
+    ],
+    "_16": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "11.",
+        "Column3": "Modern Operational systems",
+        "Column4": "Dr. habil. Róbert Lovas",
+        "Column5": "KRI",
+        "Column6": 5,
+        "Column7": 5,
+        "Column8": 2,
+        "Column9": 0,
+        "Column10": 3,
+        "Column11": "ex",
+        "Column12": 5
+      },
+      0,
+      0
+    ],
+    "_17": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "12.",
+        "Column3": "Data preparation and transformation",
+        "Column4": "Dr. Eszter Balázsné Kail",
+        "Column5": "KRI",
+        "Column6": 4,
+        "Column7": 5,
+        "Column13": 2,
+        "Column14": 0,
+        "Column15": 2,
+        "Column16": "m",
+        "Column17": 5,
+        "Column30": "Databases and Big Data technologies "
+      },
+      0,
+      0
+    ],
+    "_18": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "13.",
+        "Column3": "Recent areas of artificial intelligence",
+        "Column4": "Dr. Gábor Csiszár",
+        "Column5": "BMI",
+        "Column6": 4,
+        "Column7": 5,
+        "Column18": 2,
+        "Column19": 0,
+        "Column20": 2,
+        "Column21": "ex",
+        "Column22": 5,
+        "Column30": "Basics of machine learning"
+      },
+      0,
+      0
+    ],
+    "_19": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "14.",
+        "Column3": "MLSecOps",
+        "Column4": "Dr. Rita Fleiner",
+        "Column5": "KRI",
+        "Column6": 4,
+        "Column7": 5,
+        "Column18": 1,
+        "Column19": 1,
+        "Column20": 2,
+        "Column21": "m",
+        "Column22": 5,
+        "Column30": "Modern Operational systems"
+      },
+      0,
+      0
+    ],
+    "_20": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "15.",
+        "Column3": "Mandatory elective course I.",
+        "Column6": 4,
+        "Column7": 5,
+        "Column13": 2,
+        "Column14": 0,
+        "Column15": 2,
+        "Column16": "m",
+        "Column17": 5
+      },
+      0,
+      0
+    ],
+    "_21": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "16.",
+        "Column3": "Mandatory elective course II.",
+        "Column6": 4,
+        "Column7": 5,
+        "Column18": 2,
+        "Column19": 0,
+        "Column20": 2,
+        "Column21": "ex",
+        "Column22": 5
+      },
+      0,
+      0
+    ],
+    "_22": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "17.",
+        "Column3": "Mandatory elective course III.",
+        "Column6": 4,
+        "Column7": 4,
+        "Column23": 2,
+        "Column24": 0,
+        "Column25": 2,
+        "Column26": "m",
+        "Column27": 4
+      },
+      0,
+      0
+    ],
+    "_23": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "18.",
+        "Column3": "Optional elective course",
+        "Column6": 4,
+        "Column7": 6,
+        "Column23": 2,
+        "Column24": 0,
+        "Column25": 2,
+        "Column26": "m",
+        "Column27": 6
+      },
+      0,
+      0
+    ],
+    "_24": [
+      {
+        "Column3": "Thesis work",
+        "Column7": 30,
+        "Column8": 0,
+        "Column9": 0,
+        "Column10": 0,
+        "Column12": 0,
+        "Column13": 0,
+        "Column14": 0,
+        "Column15": 0,
+        "Column17": 0,
+        "Column18": 0,
+        "Column19": 0,
+        "Column20": 0,
+        "Column22": 10,
+        "Column23": 0,
+        "Column24": 0,
+        "Column25": 0,
+        "Column27": 20
+      },
+      0,
+      0
+    ],
+    "_25": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "19.",
+        "Column3": "Thesis work I.",
+        "Column7": 10,
+        "Column21": "m",
+        "Column22": 10
+      },
+      0,
+      0
+    ],
+    "_26": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "20.",
+        "Column3": "Thesis work II.",
+        "Column7": 20,
+        "Column26": "m",
+        "Column27": 20,
+        "Column30": "Thesis work I."
+      },
+      0,
+      0
+    ],
+    "_27": [
+      {
+        "Column3": "Criteria subject",
+        "Column6": 1,
+        "Column7": 0,
+        "Column8": 0,
+        "Column9": 1,
+        "Column10": 0,
+        "Column12": 0,
+        "Column13": 0,
+        "Column14": 0,
+        "Column15": 0,
+        "Column17": 0,
+        "Column18": 0,
+        "Column19": 0,
+        "Column20": 0,
+        "Column22": 0,
+        "Column23": 0,
+        "Column24": 0,
+        "Column25": 0,
+        "Column27": 0
+      },
+      0,
+      0
+    ],
+    "_28": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "21.",
+        "Column3": "Mentoring",
+        "Column4": "Dr. Borbála Berki",
+        "Column5": "BMI",
+        "Column6": 1,
+        "Column7": 0,
+        "Column8": 0,
+        "Column9": 1,
+        "Column10": 0,
+        "Column11": "s",
+        "Column12": 0
+      },
+      0,
+      0
+    ],
+    "_29": [
+      {
+        "Column3": "Physical education",
+        "Column6": 2,
+        "Column7": 2,
+        "Column8": 0,
+        "Column9": 1,
+        "Column10": 0,
+        "Column12": 1,
+        "Column13": 0,
+        "Column14": 1,
+        "Column15": 0,
+        "Column17": 1
+      },
+      0,
+      0
+    ],
+    "_30": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "22.",
+        "Column3": "Physical education I.",
+        "Column4": "Ákos Hiervarter ",
+        "Column5": "TSI",
+        "Column6": 1,
+        "Column7": 1,
+        "Column8": 0,
+        "Column9": 1,
+        "Column10": 0,
+        "Column11": "m",
+        "Column12": 1
+      },
+      0,
+      0
+    ],
+    "_31": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "23.",
+        "Column3": "Physical education II.",
+        "Column4": "Ákos Hiervarter",
+        "Column5": "TSI",
+        "Column6": 1,
+        "Column7": 1,
+        "Column13": 0,
+        "Column14": 1,
+        "Column15": 0,
+        "Column16": "m",
+        "Column17": 1
+      },
+      0,
+      0
+    ],
+    "_32": [
+      {
+        "Column3": "Elective courses:"
+      },
+      0,
+      0
+    ],
+    "_33": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "24.",
+        "Column3": "Cloud based IoT and Big Data Platforms",
+        "Column4": "Dr. habil. Róbert Lovas",
+        "Column5": "KRI",
+        "Column6": 4,
+        "Column7": 4,
+        "Column23": 2,
+        "Column24": 0,
+        "Column25": 2,
+        "Column26": "m",
+        "Column27": 4
+      },
+      0,
+      0
+    ],
+    "_34": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "25.",
+        "Column3": "Basics of Evidence Based-medicine",
+        "Column4": "Dr. habil. Tamás Ferenci",
+        "Column5": "BMI",
+        "Column6": 3,
+        "Column7": 4,
+        "Column23": 1,
+        "Column24": 0,
+        "Column25": 2,
+        "Column26": "ex",
+        "Column27": 4
+      },
+      0,
+      0
+    ],
+    "_35": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "26.",
+        "Column3": "Application of biostatistical methods",
+        "Column4": "Dr. habil. Tamás Ferenci",
+        "Column5": "BMI",
+        "Column6": 4,
+        "Column7": 4,
+        "Column23": 2,
+        "Column24": 0,
+        "Column25": 2,
+        "Column26": "ex",
+        "Column27": 4
+      },
+      0,
+      0
+    ],
+    "_36": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "27.",
+        "Column3": "Research Methodology",
+        "Column4": "Dr. György Eigner",
+        "Column5": "BMI",
+        "Column6": 2,
+        "Column7": 4,
+        "Column23": 1,
+        "Column24": 0,
+        "Column25": 1,
+        "Column26": "m",
+        "Column27": 4
+      },
+      0,
+      0
+    ],
+    "_37": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "28.",
+        "Column3": "AI-based solutions for cyber defence",
+        "Column4": "Dr. Eszter Balázsné Kail",
+        "Column5": "KRI",
+        "Column6": 4,
+        "Column7": 5,
+        "Column23": 2,
+        "Column24": 0,
+        "Column25": 2,
+        "Column26": "ex",
+        "Column27": 5
+      },
+      0,
+      0
+    ],
+    "_38": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "29.",
+        "Column3": "Multivariate statistical methods",
+        "Column4": "Dr. habil. Tamás Ferenci",
+        "Column5": "BMI",
+        "Column6": 4,
+        "Column7": 4,
+        "Column23": 2,
+        "Column24": 0,
+        "Column25": 2,
+        "Column26": "ex",
+        "Column27": 4
+      },
+      0,
+      0
+    ],
+    "_39": [
+      {
+        "Curriculum table for the full-time MSc in Data Science": "30.",
+        "Column3": "Stochastic processes and their applications",
+        "Column4": "Dr. Péter Kárász",
+        "Column5": "AMI",
+        "Column6": 4,
+        "Column7": 5,
+        "Column23": 2,
+        "Column24": 2,
+        "Column25": 0,
+        "Column26": "ex",
+        "Column27": 5
+      },
+      0,
+      0
+    ],
+    "_41": [
+      {
+        "Column3": "Number of requirements:",
+        "Column11": 8,
+        "Column16": 7,
+        "Column21": 5,
+        "Column26": 3
+      },
+      0,
+      0
+    ],
+    "_42": [
+      {
+        "Column3": "Exam (ex)",
+        "Column11": 4,
+        "Column16": 3,
+        "Column21": 3,
+        "Column26": 0
+      },
+      0,
+      0
+    ],
+    "_43": [
+      {
+        "Column3": "Mid-term mark (m)",
+        "Column11": 3,
+        "Column16": 4,
+        "Column21": 2,
+        "Column26": 3
+      },
+      0,
+      0
+    ],
+    "_44": [
+      {
+        "Column3": "Signature (s)",
+        "Column11": 1,
+        "Column16": 0,
+        "Column21": 0,
+        "Column26": 0
+      },
+      0,
+      0
+    ],
+    "_46": [
+      {
+        "Column3": "Summary:",
+        "Column6": 76,
+        "Column7": 120,
+        "Column8": 13,
+        "Column9": 4,
+        "Column10": 11,
+        "Column12": 30,
+        "Column13": 11,
+        "Column14": 5,
+        "Column15": 8,
+        "Column17": 30,
+        "Column18": 6,
+        "Column19": 2,
+        "Column20": 8,
+        "Column22": 30,
+        "Column23": 4,
+        "Column24": 0,
+        "Column25": 4,
+        "Column27": 30
+      },
+      0,
+      0
+    ],
+    "_47": [
+      {
+        "Column3": "Lecture:",
+        "Column6": 34
+      },
+      0,
+      0
+    ],
+    "_48": [
+      {
+        "Column3": "Seminar:",
+        "Column6": 11
+      },
+      0,
+      0
+    ],
+    "_49": [
+      {
+        "Column3": "Laboratory practice:",
+        "Column6": 31
+      },
+      0,
+      0
+    ]
+  }
+}
